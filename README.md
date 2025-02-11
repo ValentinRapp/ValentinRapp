@@ -3,8 +3,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-C          8 mins          █████████████████████▓░░░   87.14 %
-Assembly   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
