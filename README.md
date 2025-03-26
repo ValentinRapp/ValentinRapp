@@ -3,10 +3,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Git Config   2 mins          ████████▒░░░░░░░░░░░░░░░░   32.98 %
-JSON         2 mins          ████████░░░░░░░░░░░░░░░░░   31.75 %
-JavaScript   2 mins          ███████▓░░░░░░░░░░░░░░░░░   31.20 %
-Markdown     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
