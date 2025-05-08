@@ -3,8 +3,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-F#    14 mins         ██████████████░░░░░░░░░░░   55.58 %
-Zig   11 mins         ███████████░░░░░░░░░░░░░░   44.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
