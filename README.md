@@ -3,7 +3,11 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Zig   3 mins          █████████████████████████   100.00 %
+C#                                 1 hr 27 mins    ███████████████████▓░░░░░   78.99 %
+Unity3D Asset                      8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+Microsoft Visual Studio Solution   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+Other                              4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Zig                                3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 ```
 
 <!--END_SECTION:waka-->
