@@ -3,11 +3,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-C#                                 4 hrs 36 mins   ████████████████████▓░░░░   82.12 %
-Unity3D Asset                      27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-GLSL                               21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-Microsoft Visual Studio Solution   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Other                              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+C#              3 hrs 9 mins    ████████████████████▓░░░░   82.49 %
+GLSL            21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+Unity3D Asset   18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
 ```
 
 <!--END_SECTION:waka-->
