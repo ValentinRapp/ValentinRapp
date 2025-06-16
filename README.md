@@ -3,9 +3,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-C#              3 hrs 9 mins    ████████████████████▓░░░░   82.49 %
-GLSL            21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-Unity3D Asset   18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
