@@ -3,7 +3,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++        34 mins         ████████████████████████▓   98.53 %
+Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Zig        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
