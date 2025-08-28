@@ -3,7 +3,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-GLSL   17 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
