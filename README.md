@@ -3,7 +3,11 @@
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+GLSL         29 mins         ██████████████▒░░░░░░░░░░   57.35 %
+JavaScript   21 mins         ██████████▓░░░░░░░░░░░░░░   42.15 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
