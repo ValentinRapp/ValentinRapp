@@ -3,11 +3,11 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Zig                       6 hrs 48 mins   ███████████████████████░░   92.66 %
-WebGPU Shading Language   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-JavaScript                6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Markdown                  4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-HTML                      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Zig                       6 hrs 10 mins   ████████████████████████░   96.41 %
+WebGPU Shading Language   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Markdown                  4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Git Config                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Wavefront Object          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
