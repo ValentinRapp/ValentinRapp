@@ -3,11 +3,11 @@
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                1 hr 4 mins     ████████████████████▓░░░░   83.33 %
-Swift                     8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-Zig                       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-WebGPU Shading Language   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Other                     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Python                    1 hr 23 mins    █████████████████▓░░░░░░░   70.52 %
+TypeScript                30 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.10 %
+Zig                       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+WebGPU Shading Language   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+TOML                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
