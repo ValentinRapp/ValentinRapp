@@ -3,11 +3,11 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Python                    3 hrs 16 mins         ██████████████▒░░░░░░░░░░   57.37 %
-Zig                       2 hrs 5 mins          █████████░░░░░░░░░░░░░░░░   36.53 %
-WebGPU Shading Language   18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-TOML                      1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Wavefront Object          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Python                    3 hrs 18 mins         ███████████████▓░░░░░░░░░   62.86 %
+Zig                       1 hr 36 mins          ███████▓░░░░░░░░░░░░░░░░░   30.48 %
+WebGPU Shading Language   18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+TOML                      1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Wavefront Object          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
