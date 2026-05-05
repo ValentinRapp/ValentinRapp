@@ -3,7 +3,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+CMake    33 mins               ███████████████████░░░░░░   76.48 %
+Other    9 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
+Kotlin   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
 <!--END_SECTION:waka-->
