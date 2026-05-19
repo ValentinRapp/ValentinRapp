@@ -3,10 +3,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Other    35 mins               ███████████████████████░░   91.80 %
-Swift    1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-Kotlin   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-Text     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
