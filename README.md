@@ -3,7 +3,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-TOML   0 secs                █████████████████████████   100.00 %
+Zig          1 hr 51 mins          ████████████████████████▒   97.20 %
+Markdown     2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
