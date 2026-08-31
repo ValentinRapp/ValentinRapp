@@ -3,9 +3,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   20 mins               ████████████████████████░   95.77 %
-Other        0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
